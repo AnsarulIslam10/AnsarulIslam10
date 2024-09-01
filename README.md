@@ -11,10 +11,6 @@
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox" alt="Portfolio"></a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=AnsarulIslam10.visitor-badge" alt="Visitors Count"/>
-</p>
-
 ---
 
 ## 🌟 About Me

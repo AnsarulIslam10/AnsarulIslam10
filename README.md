@@ -16,7 +16,7 @@
 ## 🌟 About Me
 
 - 🎓 I’m currently a web development student.
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to collaborate on **[Your Collaboration Interests]**
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++**
 - ⚡ Fun fact: **I love to learn new things**

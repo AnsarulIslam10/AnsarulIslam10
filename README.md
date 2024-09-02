@@ -20,7 +20,7 @@
 
 ## 🌟 About Me
 <p>
-<img align="right" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding gif" />
+<img align="right" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding gif" />
 
 - 🎓 I’m currently a web development student.
 - 🌱 I’m currently learning **JavaScript**

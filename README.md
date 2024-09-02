@@ -1,7 +1,14 @@
 <!-- Banner -->
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+<!--   //![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)-->
 
-<h1 align="center">Hello, I'm Ansarul Islam 👋</h1>
+
+<!--   <h1 align="center">Hello, I'm Ansarul Islam 👋</h1> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Ansarul+Islam....;Welcome+to+my+Github&center=true&size=30">
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
@@ -12,11 +19,20 @@
 ---
 
 ## 🌟 About Me
+<p>
+<img align="right" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding gif" />
 
 - 🎓 I’m currently a web development student.
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++**
 - ⚡ Fun fact: **I love to learn new things**
+</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
@@ -51,6 +67,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnsarulIslam10&theme=radical" alt="GitHub Streak" />
 </p>
 
+<a href="https://komarev.com/ghpvc/?username=ansarulislam10">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ansarulislam10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+<br/>
+
 ---
 
 ## 📊 Top Languages
@@ -60,6 +81,7 @@
 </p>
 
 ---
+
 
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="footer-banner" width="800"/>

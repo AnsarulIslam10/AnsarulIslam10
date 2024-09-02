@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="animated-banner" width="800"/>
-</p>
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
 <h1 align="center">Hello, I'm Ansarul Islam 👋</h1>
 
@@ -64,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="footer-banner" width="800"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="footer-banner" width="800"/>
 </p>

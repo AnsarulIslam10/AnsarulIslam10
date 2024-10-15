@@ -15,6 +15,9 @@
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox" alt="Portfolio"></a>
 </p>
+<a href="https://komarev.com/ghpvc/?username=ansarulislam10">
+  <img src="https://komarev.com/ghpvc/?username=ansarulislam10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 ---
 
@@ -58,10 +61,26 @@
 
 ---
 
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> GitHub Activity
+
+<p align="center">
+<img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnsarulIslam10&theme=algolia" alt="GitHub Streak" />
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnsarulIslam10&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnsarulIslam10&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnsarulIslam10&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnsarulIslam10&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
+</p>
+
+---
+<!-- 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnsarulIslam10&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnsarulIslam10&show_icons=true&theme=radical" style="width: 48%; margin-bottom: 5px;" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -74,6 +93,7 @@
 <br/>
 
 ---
+-->
 
 ## 📊 Top Languages
 

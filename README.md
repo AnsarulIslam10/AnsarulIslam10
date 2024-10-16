@@ -3,7 +3,7 @@
 <!--   //![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)-->
 
 
-<!--   <h1 align="center">Hello, I'm Ansarul Islam 👋</h1> -->
+<!--   <h1 align="center">Hello, I'm Ansarul Islam</h1> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Ansarul+Islam....;Welcome+to+my+Github&center=true&size=30">

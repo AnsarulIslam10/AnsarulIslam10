@@ -11,8 +11,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/ansarul-islam-32a229318/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://x.com/ansarulislam_10"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox" alt="Portfolio"></a>
 </p>
 <a href="https://komarev.com/ghpvc/?username=ansarulislam10">

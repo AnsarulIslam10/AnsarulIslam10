@@ -26,7 +26,7 @@
 <img align="right" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding gif" />
 
 - 🎓 I’m currently a web development student.
-- 🌱 I’m currently learning **Firebase🔥**
+- 🌱 I’m currently learning **Backend**
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++**
 - ⚡ Fun fact: **I love to learn new things**
 </p>

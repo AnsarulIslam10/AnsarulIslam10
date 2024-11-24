@@ -40,17 +40,66 @@
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-</p>
+## Skills
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40">
+      <br><b>HTML5</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40">
+      <br><b>CSS3</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40">
+      <br><b>Tailwind CSS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="DaisyUI" width="40">
+      <br><b>DaisyUI</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40">
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/61DAFB/react-native.png" alt="React" width="40">
+      <br><b>React</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/FFCA28/firebase.png" alt="Firebase" width="40">
+      <br><b>Firebase</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40">
+      <br><b>C</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40">
+      <br><b>C++</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40">
+      <br><b>Node.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="40">
+      <br><b>Express.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40">
+      <br><b>MongoDB</b>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 

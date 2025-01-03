@@ -103,14 +103,6 @@
 
 ---
 
-## 🚀 Projects
-
-- [**To-Do-List**](https://ansarulislam10.github.io/To-Do-List/): A simple and intuitive to-do list application that helps users organize tasks efficiently. It features task creation, editing, deletion, and the ability to mark tasks as complete. Built with HTML, CSS, and JavaScript, it offers a clean and responsive user interface.
-- [**Random-Password-Generator**](https://ansarulislam10.github.io/Random-Password-Generator/): A web application that generates secure and random passwords based on user-defined criteria such as length, inclusion of uppercase, lowercase, numbers, and special characters. This tool is designed to enhance online security by creating strong, unpredictable passwords.
-- [**Meme-Generator**](https://ansarulislam10.github.io/Meme-Generator/): A web application that fetches and displays random memes from a selected subreddit. It provides users with a continuous stream of entertaining memes directly from the web. Built with JavaScript, it offers a fun and simple way to browse memes without leaving the app.
-
----
-
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> GitHub Activity
 
 <p align="center">

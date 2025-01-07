@@ -45,8 +45,6 @@
 
 ---
 
-## 🛠️ Technologies & Tools
-
 ## Skills
 
 <table align="center">
@@ -124,7 +122,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnsarulIslam10&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
 </p> -->
 
----
+
 <!-- 
 ## 📈 GitHub Stats
 
@@ -152,7 +150,8 @@
 
 ---
 -->
-
+<!---
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="footer-banner" width="800"/>
 </p>
+--->

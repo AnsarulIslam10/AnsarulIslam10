@@ -10,11 +10,18 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ansarul-islam-32a229318/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://x.com/ansarulislam_10"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox" alt="Portfolio"></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ansarul-islam-riyad/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/ansarulislam_10" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/ansarulislamriyad" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
 <a href="https://komarev.com/ghpvc/?username=ansarulislam10">
   <img src="https://komarev.com/ghpvc/?username=ansarulislam10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>

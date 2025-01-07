@@ -28,20 +28,21 @@
 
 ---
 
-## 🌟 About Me 
+## 🌟 About Me
+
 <p>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding gif" />
 
-- 🎓 I’m currently a web development student.
-- 🌱 I’m currently learning **Backend**
-- 💬 Ask me about **HTML, CSS, JavaScript, C, C++**
-- ⚡ Fun fact: **I love to learn new things**
-</p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+Hello! I'm Ansarul Islam Riyad, a web development student passionate about building user-friendly and efficient web applications. I'm currently exploring the **MERN** stack and diving deeper into backend development.
+
+- 🎓 Final-year student in Computer Technology at Chapainawabganj Polytechnic Institute.
+- 💻 Focused on mastering **MERN** (MongoDB, Express.js, React, Node.js).
+- 🌱 Currently learning **Backend** development and enhancing my coding skills.
+- 🚀 Always exploring new technologies and sharpening my coding skills.
+- ⚡ Fun fact: **Eat. Sleep. Code. Repeat.**
+
+Let's connect and create something amazing together!
+
 
 ---
 

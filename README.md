@@ -30,9 +30,6 @@
 
 ## 🌟 About Me
 
-<p>
-<img align="right" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding gif" />
-
 Hello! I'm Ansarul Islam Riyad, a web development student passionate about building user-friendly and efficient web applications. I'm currently exploring the **MERN** stack and diving deeper into backend development.
 
 - 🎓 Final-year student in Computer Technology at Chapainawabganj Polytechnic Institute.

@@ -45,62 +45,30 @@ Let's connect and create something amazing together!
 
 ## Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40">
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40">
-      <br><b>CSS3</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40">
-      <br><b>Tailwind CSS</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="DaisyUI" width="40">
-      <br><b>DaisyUI</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40">
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/61DAFB/react-native.png" alt="React" width="40">
-      <br><b>React</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/FFCA28/firebase.png" alt="Firebase" width="40">
-      <br><b>Firebase</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40">
-      <br><b>C</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40">
-      <br><b>C++</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40">
-      <br><b>Node.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="40">
-      <br><b>Express.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40">
-      <br><b>MongoDB</b>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="32" alt="tailwindcss logo"  />
+</div>
+
 
 
 

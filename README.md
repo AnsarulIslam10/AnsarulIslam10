@@ -116,8 +116,3 @@ Let's connect and create something amazing together!
 
 ---
 -->
-<!---
-<p align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="footer-banner" width="800"/>
-</p>
---->

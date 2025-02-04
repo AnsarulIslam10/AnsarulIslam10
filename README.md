@@ -85,6 +85,13 @@ Let's connect and create something amazing together!
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnsarulIslam10&theme=algolia" style="width: 48%; margin-bottom: 5px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnsarulIslam10&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
 </p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=AnsarulIslam10&theme=dark" alt="GitHub Streak">
+  </a>
+</p>
+
 <!-- <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnsarulIslam10&theme=algolia" style="width: 48%; margin-bottom: 5px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnsarulIslam10&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">

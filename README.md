@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](https://i.ibb.co.com/cL5xJqh/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
+![MasterHead](https://i.postimg.cc/sxGn9mZF/Linked-In-Banner.jpg)
 <!--   //![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)-->
 
 

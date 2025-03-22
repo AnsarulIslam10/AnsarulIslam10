@@ -32,7 +32,7 @@
 
 Hello! I'm Ansarul Islam Riyad, a frontend web developer. I'm passionate about building user-friendly and efficient web applications. I'm currently exploring the **MERN** stack and diving deeper into backend development.
 
-- 🌱 Currently learning **NEXT.JS**
+- 🌱 Currently learning **NEXT.JS & TypeScript**
 - 💻 Focused on mastering **MERN** (MongoDB, Express.js, React, Node.js).
 - 🚀 Always exploring new technologies and sharpening my coding skills.
 - ⚡ Fun fact: **Eat. Sleep. Code. Repeat.**
